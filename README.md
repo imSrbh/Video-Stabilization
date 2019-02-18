@@ -1,2 +1,2 @@
 # Video-Stabilization
-*Computer Vision Course project
+*Computer Vision Course project*
